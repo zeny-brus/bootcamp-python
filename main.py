@@ -1,24 +1,3 @@
-'''
-desafio 2
-criar funçao de sacar (keyword only) X
-criar funcao de depositar(positional only) X
-criar funcao de extrato (positional only, keyword only) X
-
-criar funcao conta cliente em uma lista (nome, nascimento,
-cpf,endereco = "logradouro, nro - bairro - cidade/sigla estado)
-cpf = chave só podendo ser somente 1 X
-
-criar conta corrente e vincular com cliente em uma lista(
-    numero da conta sequencial, numero da  agencia fixo '0001'
-) 
-cliente pode ter mais de uma conta, mas uma conta só pode ter apenas 1 cliente
-lista de usuarios buscando o numero do cpf
-utilizar argumentos por posiçao e nomedos
-
-AVISO:
-criar um README com checkbox do desafio 1 no github antes de commitar e subir este desafio
-e alterar o README com novos checkbox do desafio 2
-'''
 import os
 import textwrap
 
