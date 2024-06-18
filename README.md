@@ -26,10 +26,11 @@
 ## Desafio 3
 ### Utilizando POO no projeto
 
-- [ ] Definir uma classe Conta
-- [ ] Definir uma classe de conta corrente dependente da classe conta
-- [ ] Definir a classe para historico dependente da classe conta
-- [ ] Definir uma interface para Transacao
-- [ ] Definir as classes de saque e deposito que implementam na transação
-- [ ] Definir a classe cliente
-- [ ] Definir a classe para pessoa fisica 
+- [x] Definir uma classe Conta
+- [x] Definir uma classe de conta corrente dependente da classe conta
+- [x] Definir a classe para historico dependente da classe conta
+- [x] Definir uma interface para Transacao
+- [x] Definir as classes de saque e deposito que implementam na transação
+- [x] Definir a classe cliente
+- [x] Definir a classe para pessoa fisica 
+- [ ] Configurar o metodo de listar contas
